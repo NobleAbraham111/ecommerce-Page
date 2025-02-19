@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Living Room Lamp",
+    "price": 3900,
+    "image": "/images/eco.jpg",
+    "description": "High quality Aesthetic living room standing lamp for your cozy home."
+  }
+  ,
+    {
+      "id": 2,
+      "name": "Compact Chair",
+      "price": 1999,
+      "image": "/images/chair2.jpg",
+      "description": "compact Chair for your everyday desk."
+    },
+    {
+      "id": 3,
+      "name": "Model Chair",
+      "price": 2999,
+      "image": "/images/chair3.jpg",
+      "description": "Stylish and Aesthetic design chair ."
+    },
+    {
+      "id": 4,
+      "name": "Single Seater Sofa",
+      "price": 6999,
+      "image": "/images/Chair.jpg",
+      "description": "A Elegant Single Seater Sofa in Aesthetic colour and model."
+    },
+    {
+      "id": 5,
+      "name": "3 Seater Cozy Sofa",
+      "price": 14999,
+      "image": "/images/cozysofa.jpg",
+      "description": "3 Seater Cozy Sofa with table."
+    },
+    {
+      "id": 6,
+      "name": "Hanging Lamp",
+      "price": 1439,
+      "image": "/images/hanginglight.jpg",
+      "description": "Hanging Lamp with bulb set of 5."
+    },
+    {
+      "id": 7,
+      "name": "Wooden Shelf",
+      "price": 18999,
+      "image": "/images/shelf.jpg",
+      "description": "A portable Wooden shelf for your living room."
+    },
+    {
+      "id": 8,
+      "name": "5 Seater Sofa with Table",
+      "price": 22000,
+      "image": "/images/Sofa.jpg",
+      "description": "Comfortable 5 Seater Sofa with Beautiful Table"
+    },
+    {
+      "id": 9,
+      "name": "Study Table With Chair",
+      "price": 12000,
+      "image": "/images/studytable.jpg",
+      "description": "A perfect Aesthetic and Compact Wooden Study Table ."
+    },
+    {
+      "id": 10,
+      "name": "Creative Photo Frame",
+      "price": 899,
+      "image": "/images/tableset.jpg",
+      "description": "A creative photo frame for wall hanging with quotes."
+    }
+  ]
+  
